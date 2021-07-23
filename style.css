@@ -1,0 +1,23 @@
+body {
+}
+article {
+  display: flex;
+  flex-direction: column;
+}
+.mom {
+  text-align: center;
+}
+.kakao_ad {
+  width: 320px;
+  margin: 0 auto;
+}
+
+.main-title {
+  font-size: 14px;
+  color: #7c7c7c;
+}
+.sub-title {
+  font-size: 24px;
+  font-weight: 100;
+  color: #000000;
+}
